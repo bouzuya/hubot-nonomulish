@@ -1,0 +1,30 @@
+{
+  "name": "hubot-nonomulish",
+  "version": "0.1.0",
+  "description": "A Hubot script for \"号泣県議コンバーター\"",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/bouzuya/hubot-nonomulish.git"
+  },
+  "keywords": [
+    "hubot"
+  ],
+  "author": "bouzuya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bouzuya/hubot-nonomulish/issues"
+  },
+  "homepage": "https://github.com/bouzuya/hubot-nonomulish",
+  "devDependencies": {
+    "coffee-script": "^1.7.1",
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1",
+    "sinon": "^1.10.3",
+    "sinon-chai": "^2.5.0"
+  },
+  "dependencies": {
+    "cheerio": "^0.17.0",
+    "request": "^2.37.0"
+  }
+}
